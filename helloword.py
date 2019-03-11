@@ -1,8 +1,8 @@
 #!/usr/bin/evn python
 #-*- coding: utf-8 -*-
 '''
-Created on 2019年1月17日 Python 2.7
-@author: flatbean 
+Created on 2019年3月11日 Python 2.7
+@author: yuesezhenhao
 实验要求：
 请先将本文件helloword.py上传到你新建的仓库
 上传到Github后，请修改上面的日期为当天日期，修改作者信息为你自己的版权信息，保存提交。
